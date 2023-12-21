@@ -12,6 +12,8 @@
 }
 .date{
     text-align: center;
+    font-size: 25px;
+    font-weight: 600;
 }
 .con-1 .div2{
     display: flex;
@@ -22,7 +24,7 @@
 
 .card-1{
     margin-top: 20px;
-    height: 500px;
+    height: 300px;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -30,11 +32,12 @@
     overflow: scroll;
 }
 
-
-
-
-
-
+.total-viewer{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 5px;
+}
 
 
 

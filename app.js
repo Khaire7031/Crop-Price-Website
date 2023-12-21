@@ -17,3 +17,14 @@ updateDate();
 
 // Update the date every 1 second (adjust the interval as needed)
 setInterval(updateDate, 1000);
+
+
+
+
+
+
+
+
+
+
+// count
